@@ -10,9 +10,7 @@ I am Kurt Russel Galang, with a flair for coding and database management skills.
 
 ## Certification
 
-- **NoSQL and DBaaS 101**
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://www.yourcertificationlink.com)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://www.yourcertificationlink.com)
+- **NoSQL and DBaaS 101** (https://courses.cognitiveclass.ai/certificates/775e8e5ae8724dbdbd0efa8fff0ffbe0#)
 
 ## Skill Sets
 
